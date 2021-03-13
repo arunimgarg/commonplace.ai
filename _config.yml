@@ -2,3 +2,4 @@ theme: jekyll-theme-minimal
 title: commonplace.ai
 description: We aim to make AI commonplace
 logo: smallcommonplaceLogo.jpg
+show_downloads: false
